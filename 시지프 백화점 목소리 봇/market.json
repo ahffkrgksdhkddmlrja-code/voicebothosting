@@ -1,0 +1,53 @@
+{
+    "16339463": {
+        "listing_id": "16339463",
+        "seller_id": 1426203711276847305,
+        "seller_name": "✟ 𝓉𝑜𝓇𝒾𝓀𝑜 ✟",
+        "item_name": "아",
+        "price": 1,
+        "quantity": 1,
+        "description": "유저가 정성껏 등록한 아이템입니다.",
+        "channel_id": 1553407499649155213,
+        "message_id": 1553408340242210898,
+        "status": "active",
+        "created_at": "2026-09-26"
+    },
+    "dc4c1666": {
+        "listing_id": "dc4c1666",
+        "seller_id": 1426203711276847305,
+        "seller_name": "✟ 𝓉𝑜𝓇𝒾𝓀𝑜 ✟",
+        "item_name": "아",
+        "price": 3,
+        "quantity": 0,
+        "channel_id": 1553409268223582258,
+        "message_id": 1553409466676805734,
+        "status": "sold_out",
+        "created_at": "2026-09-26"
+    },
+    "18cb182f": {
+        "listing_id": "18cb182f",
+        "type": "buy",
+        "buyer_id": 877127359290019870,
+        "buyer_name": "TM_tomato",
+        "item_name": "에펙의 팬티",
+        "price": 3,
+        "quantity": 1,
+        "channel_id": 1553051811160793131,
+        "message_id": 1553412193620594780,
+        "status": "cancelled",
+        "created_at": "2026-09-26"
+    },
+    "bdf75825": {
+        "listing_id": "bdf75825",
+        "type": "buy",
+        "buyer_id": 877127359290019870,
+        "buyer_name": "TM_tomato",
+        "item_name": "에펙의 팬티",
+        "price": 3,
+        "quantity": 0,
+        "channel_id": 1553051811160793131,
+        "message_id": 1553412267952046142,
+        "status": "completed",
+        "created_at": "2026-09-26"
+    }
+}

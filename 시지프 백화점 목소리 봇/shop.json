@@ -1,0 +1,138 @@
+{
+    "운동화": {
+        "price": 100,
+        "description": "이방인 상점 일반 물품"
+    },
+    "구두": {
+        "price": 400,
+        "description": "이방인 상점 일반 물품"
+    },
+    "양말": {
+        "price": 40,
+        "description": "이방인 상점 일반 물품"
+    },
+    "랭콜로르-네이키드와 교환하기": {
+        "price": 0,
+        "description": "이방인 상점 교환 물품"
+    },
+    "재킷": {
+        "price": 500,
+        "description": "이방인 상점 일반 물품"
+    },
+    "티셔츠": {
+        "price": 300,
+        "description": "이방인 상점 일반 물품"
+    },
+    "나뭇잎": {
+        "price": 1000,
+        "description": "이방인 상점 일반 물품"
+    },
+    "바지": {
+        "price": 500,
+        "description": "이방인 상점 일반 물품"
+    },
+    "안경": {
+        "price": 450,
+        "description": "토파즈~앰버 상점 일반 물품"
+    },
+    "장갑": {
+        "price": 500,
+        "description": "토파즈~앰버 상점 일반 물품"
+    },
+    "모자": {
+        "price": 600,
+        "description": "토파즈~앰버 상점 일반 물품"
+    },
+    "손수건": {
+        "price": 800,
+        "description": "토파즈~앰버 상점 일반 물품"
+    },
+    "머리띠": {
+        "price": 10,
+        "description": "토파즈~앰버 상점 일반 물품"
+    },
+    "철반지": {
+        "price": 3000,
+        "description": "에메랄드~골드 상점 악세서리"
+    },
+    "귀걸이": {
+        "price": 400,
+        "description": "에메랄드~골드 상점 악세서리"
+    },
+    "팔찌": {
+        "price": 800,
+        "description": "에메랄드~골드 상점 악세서리"
+    },
+    "지갑": {
+        "price": 1000,
+        "description": "에메랄드~골드 상점 악세서리"
+    },
+    "가방": {
+        "price": 2000,
+        "description": "에메랄드~골드 상점 악세서리"
+    },
+    "의자": {
+        "price": 2000,
+        "description": "루비~사파이어 상점 가구"
+    },
+    "책상": {
+        "price": 4000,
+        "description": "루비~사파이어 상점 가구"
+    },
+    "서랍": {
+        "price": 3500,
+        "description": "루비~사파이어 상점 가구"
+    },
+    "옷장": {
+        "price": 5000,
+        "description": "루비~사파이어 상점 가구"
+    },
+    "침대": {
+        "price": 6000,
+        "description": "루비~사파이어 상점 가구"
+    },
+    "토파즈": {
+        "price": 2000,
+        "description": "오닉스 상점 보석"
+    },
+    "자수정": {
+        "price": 4000,
+        "description": "오닉스 상점 보석"
+    },
+    "호박": {
+        "price": 6000,
+        "description": "오닉스 상점 보석"
+    },
+    "에메랄드": {
+        "price": 8000,
+        "description": "오닉스 상점 보석"
+    },
+    "금": {
+        "price": 10000,
+        "description": "오닉스 상점 보석"
+    },
+    "루비": {
+        "price": 12000,
+        "description": "오닉스 상점 보석"
+    },
+    "사파이어": {
+        "price": 14000,
+        "description": "오닉스 상점 보석"
+    },
+    "오닉스": {
+        "price": 16000,
+        "description": "오닉스 상점 보석"
+    },
+    "다이아몬드": {
+        "price": 18000,
+        "description": "오닉스 상점 보석"
+    },
+    "시즌 칭호": {
+        "price": 20000,
+        "description": "다이아몬드 상점 칭호 (한달마다 변경)"
+    },
+    "시지프의 거물": {
+        "price": 280000,
+        "description": "다이아몬드 상점 최고급 칭호"
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "877127359290019870": {
+        "eyeballs": 40,
+        "chat_count": 9,
+        "daily_earned": 0,
+        "last_earned_date": "2026-10-25",
+        "inventory": {},
+        "grade": "토파즈",
+        "team": null,
+        "floor_earned": {},
+        "eyeballs_spent": 0
+    },
+    "1292775773341614164": {
+        "eyeballs": 455,
+        "chat_count": 14,
+        "daily_earned": 0,
+        "last_earned_date": "2026-10-25",
+        "inventory": {},
+        "grade": "토파즈",
+        "team": null,
+        "floor_earned": {},
+        "eyeballs_spent": 0
+    },
+    "1426203711276847305": {
+        "eyeballs": 335,
+        "chat_count": 14,
+        "daily_earned": 0,
+        "last_earned_date": "2026-10-25",
+        "inventory": {
+            "[테스트] 아메시스트 등급업 눈알 (750개)": 3,
+            "[테스트] 앰버 등급업 눈알 (1600개)": 2,
+            "[테스트] 에메랄드 등급업 눈알 (2500개)": 1,
+            "[테스트] 골드 등급업 눈알 (3100개)": 1,
+            "[테스트] 루비 등급업 눈알 (4200개)": 1,
+            "[테스트] 사파이어 등급업 눈알 (6500개)": 1,
+            "[테스트] 오닉스 등급업 눈알 (8000개)": 1,
+            "[테스트] 다이아몬드 등급업 눈알 (10000개)": 1,
+            "안경": 1,
+            "장갑": 1,
+            "모자": 1,
+            "손수건": 1,
+            "머리띠": 1
+        },
+        "grade": "에메랄드",
+        "team": null,
+        "floor_earned": {},
+        "eyeballs_spent": 20360
+    },
+    "1386602771825950750": {
+        "eyeballs": 0,
+        "chat_count": 38,
+        "daily_earned": 0,
+        "last_earned_date": "2026-10-18",
+        "inventory": {},
+        "grade": "토파즈",
+        "team": null,
+        "floor_earned": {},
+        "eyeballs_spent": 0
+    },
+    "1466508248663330896": {
+        "eyeballs": 49999962600,
+        "chat_count": 0,
+        "daily_earned": 0,
+        "last_earned_date": "2026-10-04",
+        "inventory": {
+            "[테스트] 아메시스트 등급업 눈알 (750개)": 2,
+            "[테스트] 앰버 등급업 눈알 (1600개)": 1,
+            "[테스트] 에메랄드 등급업 눈알 (2500개)": 1,
+            "[테스트] 골드 등급업 눈알 (3100개)": 1,
+            "[테스트] 루비 등급업 눈알 (4200개)": 1,
+            "[테스트] 사파이어 등급업 눈알 (6500개)": 1,
+            "[테스트] 오닉스 등급업 눈알 (8000개)": 1,
+            "[테스트] 다이아몬드 등급업 눈알 (10000개)": 1
+        },
+        "eyeballs_spent": 1500,
+        "grade": "다이아몬드",
+        "team": null,
+        "floor_earned": {}
+    },
+    "1282843446842757141": {
+        "eyeballs": 999999958400,
+        "eyeballs_spent": 29450,
+        "chat_count": 0,
+        "daily_earned": 0,
+        "last_earned_date": "2026-10-11",
+        "inventory": {
+            "[테스트] 아메시스트 등급업 눈알 (750개)": 2,
+            "[테스트] 앰버 등급업 눈알 (1600개)": 1,
+            "[테스트] 에메랄드 등급업 눈알 (2500개)": 1,
+            "[테스트] 골드 등급업 눈알 (3100개)": 1,
+            "[테스트] 루비 등급업 눈알 (4200개)": 2,
+            "[테스트] 사파이어 등급업 눈알 (6500개)": 1,
+            "[테스트] 오닉스 등급업 눈알 (8000개)": 1,
+            "[테스트] 다이아몬드 등급업 눈알 (10000개)": 1
+        },
+        "grade": "루비",
+        "team": null,
+        "floor_earned": {}
+    },
+    "1336339808573718573": {
+        "eyeballs": 130,
+        "chat_count": 14,
+        "daily_earned": 130,
+        "last_earned_date": "2026-10-18",
+        "inventory": {},
+        "grade": "토파즈",
+        "team": null,
+        "floor_earned": {
+            "5층": 130
+        },
+        "eyeballs_spent": 0
+    },
+    "1132261819629711421": {
+        "eyeballs": 0,
+        "chat_count": 3,
+        "daily_earned": 0,
+        "last_earned_date": "2026-10-18",
+        "inventory": {},
+        "grade": "토파즈",
+        "team": null,
+        "floor_earned": {},
+        "eyeballs_spent": 0
+    }
+}
